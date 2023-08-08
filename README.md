@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaissultan3000&label=Profile%20views&color=0e75b6&style=flat" alt="owaissultan3000" /> </p>
 
-- 🌱 I’m currently learning **Vue.js, Python Django**
+- 🌱 I’m currently learning **Vue.js, Python Django, AWS**
 
-- 💬 Ask me about **Vue.js Django Python C#**
+- 💬 Ask me about **Vue.js, Python Django, Python, C#**
 
 - 📫 How to reach me **owaissultan958@gmail.com**
 

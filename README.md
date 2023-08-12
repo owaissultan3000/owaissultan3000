@@ -88,10 +88,10 @@
             alt="redis" width="40" height="40" /> </a>
 </p>
 
+<h3 align="left">Stats:</h3>
+<p>&nbsp;<img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=owaissultan3000&show_icons=true&locale=en"
+    alt="owaissultan3000" /></p>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=owaissultan3000&show_icons=true&locale=en&layout=compact"
-        alt="owaissultan3000" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=owaissultan3000&show_icons=true&locale=en"
         alt="owaissultan3000" /></p>

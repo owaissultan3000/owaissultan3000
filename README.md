@@ -5,11 +5,11 @@
         src="https://komarev.com/ghpvc/?username=owaissultan3000&label=Profile%20views&color=0e75b6&style=flat"
         alt="owaissultan3000" /> </p>
         
-- 🔭 I’m currently working at <a href="https://retrocausal.ai/">Retrocausal</a>
+- 🔭 I’m currently working at <a href="https://www.snappymob.com/">Snappymob</a>
   
-- 🌱 I’m currently learning **Vue.js, Python Django, AWS**
+- 🌱 I’m currently learning **NEXT.js, NEST.js**
 
-- 💬 Ask me about **Vue.js, Python Django, Python, C#**
+- 💬 Ask me about **Vue.js, Python Django, NEST.js, C#**
 
 - 📫 How to reach me **owaissultan958@gmail.com**
 

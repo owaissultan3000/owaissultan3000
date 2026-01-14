@@ -14,7 +14,7 @@
 - 📫 How to reach me **owaissultan958@gmail.com**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1EwVqHYLNrYFwGSb5Vn_QWT0AvnOmKgfF/view?usp=sharing](https://drive.google.com/file/d/1EwVqHYLNrYFwGSb5Vn_QWT0AvnOmKgfF/view?usp=sharing)
+[https://drive.google.com/file/d/18bqSH14PLRounv-znU84ufp0GXyxjd1s/view?usp=sharing](https://drive.google.com/file/d/18bqSH14PLRounv-znU84ufp0GXyxjd1s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
